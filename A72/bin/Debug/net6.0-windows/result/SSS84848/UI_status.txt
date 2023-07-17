@@ -1,0 +1,4 @@
+image imfo.:initial UI
+CTF,initial,waiting proccess start
+Gamma,initial,waiting proccess start
+MTF,initial,waiting proccess start

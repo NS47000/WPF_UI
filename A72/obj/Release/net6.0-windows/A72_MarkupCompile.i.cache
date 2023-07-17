@@ -1,7 +1,7 @@
 ﻿A72
 1.0.0.0
 
-winexe
+exe
 C#
 .cs
 C:\Users\11011105\google\quanta\UI\A72\A72\obj\Release\net6.0-windows\
@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\11011105\google\quanta\UI\A72\A72\App.xaml
-11407045341
+21940794329
 
-5127432879
+61056772591
 194101785492
-MainWindow.xaml;
+MainWindow.xaml;Window1.xaml;
 
 True
 
